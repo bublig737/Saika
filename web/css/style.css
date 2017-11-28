@@ -1,0 +1,21 @@
+
+.div1{
+    width: min-content;
+    margin: 0 auto;
+    display: block;
+      border: solid black 18px;  
+    color: red;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+   
+    
+}
+
+.player{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    display: block;
+    margin: 0 auto; 
+}
